@@ -37,5 +37,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
     System.out.println("Hello, Devops");
+    System.out.println("Hello, JENKINS");
   }
 }
